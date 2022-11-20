@@ -1,0 +1,41 @@
+.first{
+    background: #ffea0b;
+}
+
+.img1{
+    height: 333px;
+    width: 200px;
+    }
+
+.image {
+    width: 100px;
+    height: 166px;
+}
+
+.family {
+    color: #013e57;
+    background-color: #e09e00;
+    text-align: center;
+    font-size: 30px;
+}
+
+.tx{
+    font-size: 20px;
+    color: #011957;
+}
+
+.textoption{
+    text-align: center;
+    font-size: 20px;
+    color: #011957;
+}
+.litext{
+    color: #ff041d;
+}
+.ul{
+    list-style: none;
+}
+hr{
+    height: 1px;
+    background: black;
+}
