@@ -1,0 +1,54 @@
+html, body{
+    margin: 10px;
+    padding: 0;
+    background-color: azure;
+
+}
+a{
+    font-size: 18px;
+}
+h1{
+    font-size: 30px;
+}
+.img1{
+    height: 400px;
+    width: 300px;
+    background-color: darkgray;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    box-shadow: 0 0 10px darkslategray;
+}
+span{
+    font-size: 25px;
+}
+p{
+    font-size: 18px;
+}
+.img2{
+    height: 400px;
+    width: 300px;
+    background-color: darkgray;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    box-shadow: 0 0 10px darkslategray;
+}
+.director_img{
+    height: 400px;
+    width: 300px;
+    background-color: silver;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 15px;
+    box-shadow: 0 0 10px black;
+
+}
+footer{
+    font-style: italic;
+    font-size: 16px;
+}
+.text1{
+ font-size: 22px;
+}
+
