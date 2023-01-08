@@ -1,0 +1,34 @@
+body{
+    background: #3e668d;
+}
+.text{
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    height: 250px;
+
+}
+
+.text1{
+    display: flex;
+    justify-content: center;
+    color: darkslategray;
+    font-size: 20px;
+}
+
+a{
+    color: silver;
+}
+.bfather{
+    height: 390px;
+    background: white;
+    margin: -9px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.block{
+    background: silver;
+    height: 330px;
+    width: 250px;
+}
