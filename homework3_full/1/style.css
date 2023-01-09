@@ -1,0 +1,46 @@
+.father {
+    width: 100%;
+    background: gray;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.header {
+    width: 99.2%;
+    height: 200px;
+    background: silver;
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.central_father {
+    width: 100%;
+    height: 405px;
+    display: flex;
+    background: gray;
+}
+
+.central_a {
+    width: 80%;
+    height: 400px;
+    display: flex;
+    background: silver;
+    margin: 5px;
+    margin-top: -0.000001px;
+    justify-content: center;
+    align-items: center;
+}
+
+.central_b {
+    background: silver;
+    flex-grow: 1;
+    margin: 5px;
+    margin-top: -0.000001px;
+    margin-left: -0.000001px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

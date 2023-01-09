@@ -1,0 +1,45 @@
+.text_options{
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+}
+.father{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    background: #ffffff;
+}
+.header{
+    width: 98.6%;
+    height: 200px;
+    background: #489cff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+
+}
+.central_father{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.post{
+    flex-grow: 1;
+    width: 100px;
+    height: 200px;
+    background: #0355af;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer{
+    width: 98.6%;
+    height: 400px;
+    background: #489cff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
