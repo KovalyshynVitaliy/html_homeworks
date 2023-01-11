@@ -1,0 +1,90 @@
+.bmb-r {
+    border-radius: 5%;
+    background: mediumpurple;
+    margin: 5px;
+
+}
+
+.page__block {
+    width: 100%;
+    background: aqua;
+
+}
+
+.header__father__block {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.midlle_square__block {
+    width: 180px;
+    height: 180px;
+}
+
+.central__page__square__grandfather__block {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.central__page__square__father__block {
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.square__block {
+    width: 150px;
+    height: 150px;
+    margin: 25px;
+}
+
+.central__page__rectangle__grandfather__block {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.central__page__rectangle__father__block {
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.rectangle__block{
+    width: 350px;
+    height: 150px;
+    margin: 25px;
+}
+
+.small__rectangle__grandfather__block{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.small__rectangle__father__block {
+    width: 70%;
+    display: flex;
+    justify-content: center;
+}
+.small__rectangle__block{
+    width: 220px;
+    height: 150px;
+    display: flex;
+}
+
+.circle__father__block{
+    width: 55%;
+    display: flex;
+    justify-content: center;
+}
+
+.circle__block{
+    margin-top: 50px;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
