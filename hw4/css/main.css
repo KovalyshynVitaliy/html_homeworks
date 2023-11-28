@@ -1,0 +1,123 @@
+.father{
+    /*height: 570px;*/
+    background: cornflowerblue;
+    display:flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+}
+.w200{
+    width: 200px;
+}
+.w250{
+    width: 250px;
+}
+.w400{
+    width: 400px;
+}
+.w600{
+    width: 600px;
+}
+.w100__percent{
+    width: 100%;
+}
+.h100{
+    height: 100px;
+}
+.h150{
+    height: 150px;
+}
+.h200{
+    height: 200px;
+}
+.h300{
+    height: 300px;
+}
+.h400{
+    height: 400px;
+}
+.bg {
+    background: silver;
+}
+.bg__red{
+    background: red;
+}
+.bg__gold{
+    background: gold;
+}
+.bg__cornflowerblue{
+    background: cornflowerblue;
+}
+.border__radius{
+    border-radius: 7px;
+}
+.margin{
+    margin: 3px;
+}
+.block__a{
+    height: 200px;
+}
+
+.block__b{
+    width: 75%;
+}
+.block__c{
+    width: 24%;
+}
+
+.father__for__menu__and__post{
+    height: 400px;
+    display:flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+}
+.menu{
+    width: 100px;
+    height: 394px;
+}
+
+.father__for__posts{
+    width: 300px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+}
+.post{
+    width: 288px;
+    height: 197px;
+}
+.footer{
+    background: gold;
+}
+.father__for__squares{
+    width: 600px;
+    height: 200px;
+    display: flex;
+
+}
+.square{
+    width: 194px;
+    height: 194px;
+}
+.rectangle{
+    width: 100%;
+    height: 200px;
+}
+.main{
+    width: 400px;
+    height: 400px;
+}
+.aside{
+    width: 200px;
+    height: 400px;
+}
+.father1{
+    background: cornflowerblue;
+    display:flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+
+
